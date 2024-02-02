@@ -1,4 +1,4 @@
-# 그래프 전치(transpose)와 단순 구현
+# 그래프 전치(transpose)와 완전 탐색
 # 그래프 전치(transpose) 시에 zip을 활용하는 것이 큰 도움이 된다.
 # zip은 두 개 또는 그 이상의 iterable에서 각 요소를 뺴어와서 tuple들의 iterator로 변환해준다.
 import sys
